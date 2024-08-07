@@ -281,26 +281,6 @@ body{
     }   
 }
 
-.about-container{
-    padding: 80px;
-    display: flex;
-    flex-direction: column;
-    background-color: var(--light-gray);
-    width: 80%;
-    margin-left: 10%;
-    margin-right: 10%;
-    margin-top: 50px;
-    border-radius: 1rem;
-}
-
-.about-title{
-    color: var(--text-color);
-}
-
-.about-desc,.list-content{
-    color: var(--dark-gray);
-}
-
 .footer-container{
     display: flex;
     justify-content: center;
